@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          what is up fokbois
+          what is up fokbois lodu cfu arejgneri
         </p>
         <a
           className="App-link"
